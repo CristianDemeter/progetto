@@ -13,10 +13,6 @@
         error_reporting(0);
         ini_set('display_errors', 0); 
         ?>
-
-
-
-        
     <body>
         <div class="background">
             <div class="page">
