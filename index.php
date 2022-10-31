@@ -1,3 +1,8 @@
+<?php 
+        session_start(); 
+        error_reporting(0);
+        ini_set('display_errors', 0); 
+        ?>
 <!DOCTYPE html>
 <html>
     <head>
@@ -8,11 +13,6 @@
         <link href='https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap' rel='stylesheet'/>
         <link rel="stylesheet" href="style.css">
     </head>
-    <?php 
-        session_start(); 
-        error_reporting(0);
-        ini_set('display_errors', 0); 
-        ?>
     <body>
         <div class="background">
             <div class="page">
