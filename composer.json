@@ -1,0 +1,7 @@
+{
+    "name": "contact/index",
+    "require": {
+        "php": "^7.4 || ^8",
+        "heroku/heroku-buildpack-php": "^226.0"
+    }
+}
