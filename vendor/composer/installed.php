@@ -3,7 +3,7 @@
         'name' => 'contact/index',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '64615691e5ba8bcf7faeb72592aee3bb2b7577dd',
+        'reference' => '2646d5de09101f7a530c5c39b17e0a178bf32cc5',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'contact/index' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '64615691e5ba8bcf7faeb72592aee3bb2b7577dd',
+            'reference' => '2646d5de09101f7a530c5c39b17e0a178bf32cc5',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -26,7 +26,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../heroku/heroku-buildpack-php',
             'aliases' => array(),
-            'dev_requirement' => false,
+            'dev_requirement' => true,
         ),
     ),
 );
